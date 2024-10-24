@@ -6,7 +6,7 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/ArtemAntonov/Portfolio/blob/master/img/Credit-Card-Transactions-Fraud-Detection.jpg"> **[Credit Card Transactions Fraud Detection](https://github.com/ArtemAntonov/Credit-Card-Transactions-Fraud-Detection)**
+<img align="left" width="250" height="150" src="https://github.com/ArtemAntonov/Portfolio/blob/main/img/Credit-Card-Transactions-Fraud-Detection.jpg"> **[Credit Card Transactions Fraud Detection](https://github.com/ArtemAntonov/Credit-Card-Transactions-Fraud-Detection)**
 
 
 
@@ -14,4 +14,4 @@
 
 ## Certificates
 
-- [IBM Data Science Professional Certificate](https://github.com/ArtemAntonov/Portfolio/blob/master/cert/Coursera%20QDZDZNZ3LAQM.pdf)
+- [IBM Data Science Professional Certificate](https://github.com/ArtemAntonov/Portfolio/blob/main/cert/Coursera%20QDZDZNZ3LAQM.pdf)
