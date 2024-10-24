@@ -9,6 +9,8 @@
 <img align="left" width="150" height="150" src="https://github.com/ArtemAntonov/Portfolio/blob/main/img/Credit-Card-Transactions-Fraud-Detection.jpg"> **[Credit Card Transactions Fraud Detection](https://github.com/ArtemAntonov/Credit-Card-Transactions-Fraud-Detection)**
 
 txt
+txt
+txt
 
 <br />
 
