@@ -6,11 +6,20 @@ This Portfolio contains my Data Science projects I have done for academic, self-
 
 
 ## Projects
-<img align="left" width="150" height="150" src="https://github.com/ArtemAntonov/Portfolio/blob/main/img/Gearbox-Speed-Estimation-via-Vibration-Analysis.jpg"> **[Gearbox Speed Estimation via Vibration Analysis](https://github.com/ArtemAntonov/Gearbox-Speed-Estimation-via-Vibration-Analysis)**
 
-In this project I used machine learning on vibrations spectrum to develop a speed regressor.
 
-<img align="left" width="150" height="150" src="https://github.com/ArtemAntonov/Portfolio/blob/main/img/Credit-Card-Transactions-Fraud-Detection.jpg"> **[Credit Card Transactions Fraud Detection](https://github.com/ArtemAntonov/Credit-Card-Transactions-Fraud-Detection)**
+<img align="left" width="145" height="145" src="https://github.com/ArtemAntonov/Portfolio/blob/main/img/Gearbox-Speed-Estimation-via-Vibration-Analysis.jpg"> 
+
+**[Gearbox Speed Estimation via Vibration Analysis](https://github.com/ArtemAntonov/Gearbox-Speed-Estimation-via-Vibration-Analysis)**
+
+To enable rotation speed detection on legacy machinery without built-in sensors, I built a regressor based on a 
+2D Convolutional Neural Network (2D-CNN). The model was trained on gearbox vibration spectra, enabling speed estimation 
+ for predictive maintenance applications.
+
+#
+<img align="left" width="145" height="145" src="https://github.com/ArtemAntonov/Portfolio/blob/main/img/Credit-Card-Transactions-Fraud-Detection.jpg"> 
+
+**[Credit Card Transactions Fraud Detection](https://github.com/ArtemAntonov/Credit-Card-Transactions-Fraud-Detection)**
 
 Objective of this project is to develop a model that detects fraudulent credit card transactions, based on available information about card holder and merchant.
 
