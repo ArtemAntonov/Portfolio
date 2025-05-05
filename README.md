@@ -1,6 +1,6 @@
 # Data Science Portfolio - Artem Antonov
 
-This Portfolio contains my Data Science projects I have done for academic, self-learning and hobby purposes.
+This repository showcases selected Data Science projects — self-learning and hobby — developed by Artem Antonov. Each project includes code, documentation and results to demonstrate applied methodologies in data science and machine learning.
 
 - **LinkedIn**: [linkedin.com/artemantonov](https://www.linkedin.com/in/artem-antonov-55451794/)
 
