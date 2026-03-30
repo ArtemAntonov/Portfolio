@@ -27,6 +27,6 @@ Objective of this project is to develop a model that detects fraudulent credit c
 
 ## Certificates
 
-- [DeepLearning.AI Deep Learning Specialization Certificate](https://github.com/ArtemAntonov/Portfolio/blob/main/cert/Coursera%Z7ZN3F9HJWWC.pdf)
+- [DeepLearning.AI Deep Learning Specialization Certificate](https://github.com/ArtemAntonov/Portfolio/blob/main/cert/Coursera%20Z7ZN3F9HJWWC.pdf)
 
 - [IBM Data Science Specialization Certificate](https://github.com/ArtemAntonov/Portfolio/blob/main/cert/Coursera%20QDZDZNZ3LAQM.pdf)
